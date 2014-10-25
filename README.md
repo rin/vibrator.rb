@@ -15,6 +15,8 @@ Use an **Arduino** and **Ruby** to control a vibrator. <3
 
 4. Bundle and run ``ruby example.rb``.
 
+![Arduino with Vibrator](https://raw.githubusercontent.com/rin/vibrator.rb/master/arduino-vibrator.jpg)
+
 ----
 ## Thanks
 * [fahrstuhl](https://github.com/fahrstuhl)
