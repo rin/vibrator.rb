@@ -1,7 +1,7 @@
 vibrator.rb
 ===========
 
-Combine the things you love! 
+Combine the things you love!
 
 Use an **Arduino** and **Ruby** to control a vibrator. <3
 
@@ -19,5 +19,6 @@ Use an **Arduino** and **Ruby** to control a vibrator. <3
 
 ----
 ## Thanks
-* [fahrstuhl](https://github.com/fahrstuhl)
+* [fahrstuhl](https://github.com/fahrstuhl/)
 * [Ika](https://github.com/IkarosKappler/)
+* [wischi](https://github.com/wischi/)
