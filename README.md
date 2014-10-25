@@ -11,7 +11,9 @@ Use an **Arduino** and **Ruby** to control a vibrator. <3
 
 2. Build this: ![Schematic](https://raw.githubusercontent.com/rin/vibrator.rb/master/schematic.png)
 
-3. Plug in your Arduino, upload du.ino to it and run ``ruby example.rb``.
+3. Plug in your Arduino, upload du.ino to it.
+
+4. Bundle and run ``ruby example.rb``.
 
 ----
 ## Thanks
