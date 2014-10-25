@@ -11,7 +11,7 @@ Use an **Arduino** and **Ruby** to control a vibrator. <3
 
 2. Build this:
 
-![Schematic](https://octodex.github.com/images/yaktocat.png)
+![Schematic](https://raw.githubusercontent.com/rin/vibrator.rb/master/schematic.png)
 
 3. Plug in your Arduino, upload du.ino to it and run ``ruby example.rb``.
 
